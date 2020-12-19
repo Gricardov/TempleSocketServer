@@ -18,7 +18,7 @@ class Server {
             cors: {
                 origin: "*",
                 methods: ["GET", "POST"]
-            }
+            },
         })
     }
 
